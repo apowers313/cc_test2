@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "cc_test2"
+  project_description: "Awesome `cc_test2` is a Python cli/package created with https://github.com/TezRomacH/python-package-template"
+  organization: "org"
+  license: "MIT"
+  minimal_python_version: 3.9
+  github_name: "apowers313"
+  email: "apowers@ato.ms"
+  version: "0.1.0"
+  line_length: "120"
+  create_example_template: "none"
